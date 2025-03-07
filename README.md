@@ -31,6 +31,15 @@ An interactive search application built with **React + Vite**, featuring a moder
 ## 📸 Screenshot
 ![Image](https://github.com/user-attachments/assets/0f6c78da-94ec-4388-824a-2900e1f79f56)
 
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+Made with ❤️ by William A. Rosado ✨
+
+
+
 ## 📄 License
 This project is licensed under the MIT License.
 
