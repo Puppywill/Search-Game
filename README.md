@@ -40,9 +40,4 @@ Made with ❤️ by William A. Rosado ✨
 
 
 
-## 📄 License
-This project is licensed under the MIT License.
-
----
-Made with ❤️ by William A. Rosado ✨
 
